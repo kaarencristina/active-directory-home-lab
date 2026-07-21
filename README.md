@@ -43,7 +43,7 @@ This server hosts:
 - DNS Server
 - Group Policy Management
 
-![Domain Controller](images/02-domain-controller.png)
+![Domain Controller](images/02 - domain-controller.png)
 
 ---
 
@@ -53,4 +53,4 @@ A new Active Directory forest named **techsolutions.local** was deployed.
 
 This domain provides centralized authentication, authorization, and policy management for all domain resources.
 
-![Active Directory Domain](images/03-active-directory-domain.png)
+![Active Directory Domain](images/03 -active-directory-domain.png)
