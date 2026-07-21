@@ -181,12 +181,3 @@ This lab will continue to evolve with additional enterprise features, including:
 - File Server enhancements
 - Additional Windows Server roles
 
----
-
-## Author
-
-**Karen Cristina**
-
-Aspiring IT Support / System Administrator with hands-on experience in Windows Server, Active Directory, Networking, and Cybersecurity.
-
-Currently expanding this home lab to simulate real-world enterprise environments.
